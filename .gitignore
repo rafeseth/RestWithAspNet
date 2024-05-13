@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/RestWithAspNet/.vs/RestWithAspNet
+/RestWithAspNet/.vs/RestWithAspNet/config
+/RestWithAspNet/.vs/RestWithAspNet/FileContentIndex
+/RestWithAspNet/.vs/RestWithAspNet/v17
