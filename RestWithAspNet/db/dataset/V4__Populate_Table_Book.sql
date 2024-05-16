@@ -1,0 +1,1 @@
+INSERT INTO book  (name, author, gender,description, price, launchdate ) VALUES("Batalha do Apocalipse","Eduardo Sphor", "Fantasy", "An amazing aventure and fantasy, where it is described a sequence of events that precedes the great war between angels and demons",59.99,"1800-11-07 15:00:00")

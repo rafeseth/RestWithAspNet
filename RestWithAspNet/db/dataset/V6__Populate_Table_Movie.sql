@@ -1,0 +1,1 @@
+INSERT INTO movie  (name, director, gender,description, duration_time, launchdate ) VALUES("Avengers - End Game","Zack Snider", "Fantasy", "The avengers kill Thanos",180,"2018-11-07 15:00:00")
